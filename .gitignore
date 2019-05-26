@@ -1,0 +1,5 @@
+JWTService/bin
+JWTService/obj
+Tests/obj
+Tests/bin
+Tests/.vscode
